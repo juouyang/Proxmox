@@ -1,4 +1,5 @@
-# Proxmox
-Notes and scripts
+TL;DR
 
+```
 Proxmox/Xpenology/files/FixSynoboot.sh
+```
